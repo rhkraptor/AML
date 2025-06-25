@@ -1,4 +1,4 @@
-# 🌪️ Prädiktive Wartung von Windkraftanlagen mit Machine Learning
+#  Prädiktive Wartung von Windkraftanlagen mit Machine Learning
 
 **Autor:** Hussnain Khalil  
 **Kurs:** Applied Machine Learning
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Projektbeschreibung
+##  Projektbeschreibung
 
 Dieses Projekt beschäftigt sich mit der Entwicklung eines Machine-Learning-Modells zur **prädiktiven Wartung** von Windkraftanlagen unter Verwendung realer SCADA-Daten.
 
@@ -15,17 +15,17 @@ Ziel ist es, mithilfe fortgeschrittener Datenanalyse und Klassifikationsmodelle 
 
 ---
 
-## 📁 Projektstruktur
+##  Projektstruktur
 
 | Datei                          | Beschreibung                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
-| `AML_Projekt.ipynb`           | 🧠 Hauptprojekt-Notebook mit Code zur Datenanalyse, Modelltraining & Visualisierung |
-| `pred_maint_wind.csv`         | 📊 Verwendeter SCADA-Datensatz mit Betriebsdaten der Windkraftanlagen       |
-| `2025_AML_Ausarbeitung.pdf`   | 📄 Schriftlicher Projektbericht
+| `AML_Projekt.ipynb`           |  Hauptprojekt-Notebook mit Code zur Datenanalyse, Modelltraining & Visualisierung |
+| `pred_maint_wind.csv`         |  Verwendeter SCADA-Datensatz mit Betriebsdaten der Windkraftanlagen       |
+| `2025_AML_Ausarbeitung.pdf`   |  Schriftlicher Projektbericht
 
 ---
 
-## 🔍 Hauptinhalte des Projekts
+##  Hauptinhalte des Projekts
 
 - **Ziel:** Klassifikation von Fehlern (Error = 1) vs. Normalbetrieb (Error = 0)
 - **Datenquelle:** SCADA-Daten von Windkraftanlagen (`pred_maint_wind.csv`)
@@ -37,7 +37,7 @@ Ziel ist es, mithilfe fortgeschrittener Datenanalyse und Klassifikationsmodelle 
 
 ---
 
-## 🚀 Ergebnisse (nach Resampling & Tuning)
+##  Ergebnisse (nach Resampling & Tuning)
 
 | Modell        | Recall (Fehler) | Precision (Fehler) | F1-Score |
 |---------------|-----------------|--------------------|----------|
